@@ -28,7 +28,7 @@ A clean, modern desktop application for editing MP3 metadata and embedding album
 
 ## Screenshots
 
-> *Add your own screenshots here after running the app*
+<img width="1180" height="720" alt="image" src="https://github.com/user-attachments/assets/a204715d-bcfd-4b3b-8e5e-30bf4617b487" />
 
 ---
 
